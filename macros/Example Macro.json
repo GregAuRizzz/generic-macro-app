@@ -1,0 +1,39 @@
+{
+  "name": "Example Macro",
+  "description": "",
+  "game": "Generic",
+  "loop": false,
+  "loop_count": 0,
+  "hotkey_start": "f8",
+  "hotkey_stop": "f9",
+  "hotkey_record": "f7",
+  "humanize_level": 0.0,
+  "anti_afk": true,
+  "anti_afk_interval_s": 900,
+  "author": "",
+  "tags": [],
+  "actions": [
+    {
+      "type": "mouse_click",
+      "id": "916705ca-00d8-4709-866e-afab88c05bba",
+      "button": "left",
+      "clicks": 1,
+      "scroll_amount": 3,
+      "duration_ms": 0,
+      "cv_confidence": 0.85,
+      "cv_timeout_ms": 30000,
+      "delay_after_ms": 100
+    },
+    {
+      "type": "mouse_click",
+      "id": "62ce1026-52d6-4c29-a806-96482fc94074",
+      "button": "left",
+      "clicks": 1,
+      "scroll_amount": 3,
+      "duration_ms": 0,
+      "cv_confidence": 0.85,
+      "cv_timeout_ms": 30000,
+      "delay_after_ms": 100
+    }
+  ]
+}

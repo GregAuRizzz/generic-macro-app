@@ -1,0 +1,5 @@
+pynput
+opencv-python
+numpy
+Pillow
+pyperclip
